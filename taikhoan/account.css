@@ -1,0 +1,29 @@
+.blockcontainer{
+  width: 500px;
+  margin: auto;
+  border: 1px solid blue;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.input{
+  display: block;
+  width: 100%;
+  background: transparent;
+  font-family: OpenSans-Regular;
+  font-size: 15px;
+  color: #666666;
+  line-height: 1.2;
+}
+.title{
+	display: block;
+ 	text-align: center;
+	font-size: 40px;
+	padding: 30px;
+}
+.formcontainer{
+	padding-bottom: 50px;
+}
+p{
+	margin:auto;
+	text-align: center;
+}
